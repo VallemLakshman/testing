@@ -1,0 +1,2 @@
+practice gt main:wq!
+
